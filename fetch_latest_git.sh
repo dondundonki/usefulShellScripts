@@ -21,4 +21,3 @@ for dir in "$repo_directory"/*; do
     fi
   fi
 done
-
