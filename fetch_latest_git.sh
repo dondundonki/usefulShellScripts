@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the directory containing your repositories
-repo_directory="/Users/donseo/newAI"
+repo_directory="<inputdirectory>"
 
 # Loop through each directory in the specified path
 for dir in "$repo_directory"/*; do
